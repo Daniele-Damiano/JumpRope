@@ -1,2 +1,2 @@
 # JumpRope
-Timer Per salto alla corda
+Timer salto alla corda Android
